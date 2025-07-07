@@ -194,3 +194,40 @@ h6 {
 		float: none;
 	}
 }
+body {
+  background: #fdfdfd;
+  color: #333;
+}
+
+header {
+  background-color: #4a90e2;
+  border-bottom: none;
+}
+
+header a {
+  color: #fff;
+}
+
+header li.logo {
+  color: #ffdd00;
+}
+
+footer {
+  background-color: #4a90e2;
+  color: #fff;
+}
+
+footer a {
+  color: #ffdd00;
+}
+
+article {
+  background: #ffffff;
+  border: 1px solid #ddd;
+  border-radius: 4px;
+}
+
+aside {
+  background: #f0f0f0;
+  border-left: 3px solid #4a90e2;
+}
